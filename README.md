@@ -25,3 +25,9 @@ The main cryptocurrency endpoints that the CMC offers us are the following:
 - Latest Market Pairs
 - Latest OHLCV
 - Price performance stats
+## Skills
+- Python
+-  CoinMarketCap API
+-  Pandas, Numpy
+-  Seaborn
+-  Matplot 
